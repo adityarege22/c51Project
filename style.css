@@ -1,0 +1,62 @@
+
+
+
+
+.header{
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    border-radius:20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 300px;
+    font-family:  fantasy;
+    flex-wrap: wrap;
+
+}
+
+
+.theory{
+    border-radius:20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 300px;
+    font-family:  fantasy;
+
+
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.gridImg{
+    border: 2px solid #000000;
+    border-radius: 50px;
+
+}
+
+.bodyImg{
+    font-family: 'Courier New';
+}
+
+
+
+
+
+
+
